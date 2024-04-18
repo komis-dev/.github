@@ -1,6 +1,6 @@
 # KOMIS DEV GitHub page
 
-![KOMIS Banner](https://raw.githubusercontent.com/komis-dev/.github/master/1411463805.png)
+![KOMIS Banner](blob:https://komis-support.atlassian.net/5cf630db-2ad4-444c-a698-7463ff10d46b)
 
 ## Introduction
 
